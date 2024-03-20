@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HomeWork4Android1</string>
+    <string name="whatsapp_icon">Whatsap Icon</string>
+    <string name="write_phone_number">Введите номер телефона</string>
+    <string name="number_code_of_kyrgyzstan">+996</string>
+    <string name="go_to_whatsap">GO TO WHATSAP</string>
+    <string name="go_to_gallery">GO TO GALLERY</string>
+</resources>
